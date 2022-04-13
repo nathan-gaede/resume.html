@@ -1,6 +1,15 @@
-body{background-color: #FFEBCD;}
+body{background-color:#2F4F4F;
+     color:#DCDCDC}
 
 .header{text-align:center;
-        border-bottom:3px solid;}
+        border-bottom:3px solid;border-bottom-style:double}
 
-.footer{text-align:center;border-bottom:3px solid;}
+.footer{text-align:center;border-bottom:3px solid;border-bottom-style:double}
+
+.work{border-bottom:3px solid;text-align:center;border-bottom-style:double}
+
+img{width:100px}
+
+.contact{border-bottom:3px solid;text-align:center;border-bottom-style:double}
+
+
